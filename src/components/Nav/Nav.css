@@ -1,0 +1,11 @@
+.nav-wrapper {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    /* align-items:  */
+    
+}
+
+.link {
+    padding: 15px
+}
